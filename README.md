@@ -3,7 +3,7 @@ Love playing with Docker, and believe 100 Dockers will Take Me Fly!
 
 > You can check details in every folder.
 
-- [ ] 1-django
+- [ ] 1-webide
 - [ ] 2-nginx
 
 
