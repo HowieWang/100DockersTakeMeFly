@@ -6,7 +6,7 @@ Love playing with Docker, and believe 100 Dockers will Take Me Fly!
 - [ ] 1-webide
 - [ ] 2-kanban
 - [ ] 3-owncloud
-- [ ] 4-gitblog
+- [ ] 4-gitblog，意见发布博客，稳准狠！
 
 
 
